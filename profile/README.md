@@ -1,7 +1,7 @@
 <p align="center">
 
 <big>
-<h1 align="center" style="font-size: 4rem"><img src="logobl.png" width="40rem" alt="Icon" title="Icon">&nbsp;biitle.nl</h1>
+<h1 align="center" style="font-size: 4rem"><img src="logobl.png" width="40rem" alt="Icon" title="Icon">&nbsp;<big>biitle.nl</big></h1>
 </big>
 
 <p align="center">
