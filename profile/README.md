@@ -16,25 +16,17 @@ biitle.nl is a software development organization started by @fgclue. We are the 
 
 # Our projects
 
-![FluidServer](https://img.shields.io/badge/FluidServer-00b8db?style=for-the-badge) &nbsp; Open source POS-system server, 
+![FluidServer](https://img.shields.io/badge/FluidServer-00b8db?style=for-the-badge) &nbsp; Open source POS-system server, licensed under MIT
 
-# Integration
-If you are a developer of a POS-system then you can easily integrate FluidServer by reading the [documentation](https://docs.fluidserver.biitle.nl).
+![Libracino](https://img.shields.io/badge/Libracino-0069a8?style=for-the-badge) &nbsp; Open source library system, licensed under MIT
 
-Also, you can use Swagger UI to test the APIs from your browser (while running FluidServer of course.)
+![Fillable.js](https://img.shields.io/badge/Fillable-db2777?style=for-the-badge) &nbsp; The polyfill library
 
-Python 3.12+ is required to use FluidServer.
+# Our sites
+![[FluidServer Documentation](https://docs.fluidserver.biitle.nl)](https://img.shields.io/badge/FluidServer_Docs-00b8db?style=for-the-badge) &nbsp; Documentation for FluidServer
 
-# Meta
-Built by clue <<lost@biitle.nl>>.
+![[Libracino](https://libracino.biitle.nl)](https://img.shields.io/badge/Libracino-0069a8?style=for-the-badge) &nbsp; An open-source library system
 
-Distributed under the MIT license.
-
-# Contributing
-1. Fork the repo (https://github.com/FluidServer/server)
-2. Create your feature branch (`git checkout -b feature/yournewfeature`)
-3. Commit your changes (`git commit -am 'Add some change'`)
-4. Push to the branch (`git push origin feature/yournewfeature`)
-5. Create a new pull request
+![[Fillable](https://fillable.biitle.nl)](https://img.shields.io/badge/Fillable-db2777?style=for-the-badge) &nbsp; The polyfill library
 
 `SPDX-License-Identifier: MIT or Apache-2.0`
