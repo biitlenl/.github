@@ -1,27 +1,22 @@
 <p align="center">
 
-<h1 align="center"><img src="data/favicon.png" width="30px" alt="Icon" title="Icon">FluidServer</h1>
+<h1 align="center"><img src="logobl.png" width="20px" alt="Icon" title="Icon">&nbsp;biitle.nl</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/license-MIT-green" alt="License" title="License" >
-<img src="https://img.shields.io/badge/license-Apache-blue" alt="License" title="License" >
+<a href="https://fluidserver.biitle.nl"><img src="https://img.shields.io/badge/FluidServer-00b8db?style=for-the-badge"></a>
+<a href="https://libracino.biitle.nl"><img src="https://img.shields.io/badge/Libracino-0069a8?style=for-the-badge"></a>
+<a href="https://fillable.biitle.nl"><img src="https://img.shields.io/badge/Fillable-db2777?style=for-the-badge"></a>
 </p>
 
 </p>
 
-> Open source scalable POS-system server
+> biitle.nl software
 
-Is it just me or are most commercial POS-systems garbage? Want something better in life? Something made to be good? Try FluidServer!
+biitle.nl is a software development organization started by @fgclue. We are the creators of FluidServer, Libracino and Fillable.js.
 
-FluidServer is a scalable POS-system server for - well - people who don't hate themselves. It makes it easier for system administrators and developer to use and implement - it's also more scalable than most POS-system servers.
-###### [Wait, what the hell?](https://gist.github.com/fgclue/67781ee2f4d3a218d8ca22e4e1024bc5)
+# Our projects
 
-# Usage Example
-
-Sending a request to `/api/product/1` will return the product data in this format:
-`Name|Price|Type (UN/KG)|Controlled (for pharmacies)`.
-
-If you want to host in a port different than the default `1618`, just run FluidServer with the argument `--port` or `-p` and your port. However, using ports below 1024 are not recommended as those ports are considered "privileged ports" and require root to use.
+![FluidServer](https://img.shields.io/badge/FluidServer-00b8db?style=for-the-badge) &nbsp; Open source POS-system server, 
 
 # Integration
 If you are a developer of a POS-system then you can easily integrate FluidServer by reading the [documentation](https://docs.fluidserver.biitle.nl).
