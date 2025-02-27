@@ -1,8 +1,6 @@
 <p align="center">
 
-<big>
-<h1 align="center" style="font-size: 4rem"><img src="logobl.png" width="40rem" alt="Icon" title="Icon">&nbsp;<big>biitle.nl</big></h1>
-</big>
+<h1 align="center" style="font-size: 2rem"><img src="logobl.png" width="20rem" alt="Icon" title="Icon">&nbsp;biitle.nl</h1>
 
 <p align="center">
 <a href="https://fluidserver.biitle.nl"><img src="https://img.shields.io/badge/FluidServer-00b8db?style=for-the-badge"></a>
