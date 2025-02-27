@@ -1,12 +1,8 @@
 <p align="center">
 
-<p align="center">
-<svg fill="none" viewBox="0 0 300 100" width="300" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <h1 align="center" style="font-size: 4rem"><img src="logobl.png" width="40rem" alt="Icon" title="Icon">&nbsp;biitle.nl</h1>
-  </foreignObject>
-</svg>
-</p>
+<big>
+<h1 align="center" style="font-size: 4rem"><img src="logobl.png" width="40rem" alt="Icon" title="Icon">&nbsp;biitle.nl</h1>
+</big>
 
 <p align="center">
 <a href="https://fluidserver.biitle.nl"><img src="https://img.shields.io/badge/FluidServer-00b8db?style=for-the-badge"></a>
